@@ -1,5 +1,5 @@
 ## 앱 이름: 의공학 학습 플랫폼 (BME Learning Hub)
-## 카테고리: [유틸리티 앱]
+## 카테고리: 유틸리티 앱
 
 ### 배포 링크
 [BME Learning Hub](https://gemini.google.com/share/584ace32dff3)
